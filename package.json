@@ -1,0 +1,23 @@
+{
+  "name": "fire",
+  "version": "1.0.0",
+  "description": "gone with fire",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdfcqu/fire.git"
+  },
+  "keywords": [
+    "electron",
+    "fire"
+  ],
+  "author": "zdfcqu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdfcqu/fire/issues"
+  },
+  "homepage": "https://github.com/zdfcqu/fire#readme"
+}
